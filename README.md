@@ -1,3 +1,5 @@
-"# latihan_git" 
+# Git practice
 
-##This your second commit
+Here you can create your **second commmit**
+
+Then you should add a JS file
